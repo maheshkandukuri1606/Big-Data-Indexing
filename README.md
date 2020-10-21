@@ -29,3 +29,4 @@ Download all the specified servers \
 import the Libraries \
 Use Postman for all the api calls \
 Kubernates for elastic search \
+Run app.py

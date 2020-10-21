@@ -17,15 +17,15 @@ Implemented all the below specification on No SQL Server
 # Libraries
 Flask
 # Servers
-Redis server
-Docker 
-Kubernetes 
-Postman
+Redis server\
+Docker \
+Kubernetes \
+Postman\
 
 # Procedure to Run the project 
-Download the proejct 
-open in editor
-Download all the specified servers 
-import the Libraries 
-Use Postman for all the api calls 
-Kubernates for elastic search 
+Download the proejct \
+open in editor\
+Download all the specified servers \
+import the Libraries \
+Use Postman for all the api calls \
+Kubernates for elastic search \
